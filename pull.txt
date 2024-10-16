@@ -1,3 +1,6 @@
 this file for check pull request
 
 line 1 
+
+line 2 for pull to local repository
+run commannd git pull 
