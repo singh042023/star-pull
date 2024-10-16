@@ -18,3 +18,4 @@ steps for fetch
 4.git merge
 
 referesh and check local repository 
+close
