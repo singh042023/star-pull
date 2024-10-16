@@ -4,3 +4,9 @@ line 1
 
 line 2 for pull to local repository
 run commannd git pull 
+
+
+line 3 for fetch request to local repository
+
+run command git fetch
+
