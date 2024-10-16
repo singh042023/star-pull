@@ -10,3 +10,11 @@ line 3 for fetch request to local repository
 
 run command git fetch
 
+steps for fetch 
+
+1.git fetch
+2.git add .
+3.git commit -m "commet"
+4.git merge
+
+referesh and check local repository 
